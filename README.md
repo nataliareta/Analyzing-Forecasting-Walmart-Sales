@@ -55,11 +55,12 @@ Integrity Guarantee: This step guaranteed that the model was trained solely on a
 ---
 
 ##### Tools & Technologies
-A.Program and Data Analyze (Python Libraries)
+A. Program and Data Analyze (Python Libraries)
 - Pandas & NumPy
 - XGBoost
 - Scikit-learn (sklearn)
 - Matplotlib
+  
 B. Platform :
 - Google Colab
 - Vs Code
