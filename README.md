@@ -22,7 +22,7 @@ Developed a robust XGBoost Regressor model to forecast weekly sales for 45 Walma
 3. Feature Importance Analysis: Discovered that annual seasonality (Sales_Lag_52) and individual store characteristics (e.g., Store_35) were significantly more influential than macro-economic variables (CPI, Unemployment).
 4. Model Validation: Confirmed model stability and accuracy through Hyperparameter Tuning and successful visualization of predicted trends against actual sales.
 
-You can open my model predicition :
+You can open my model (Forecasting) :
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1RvZ7cyfqavxI9uZGcyR7O1pFBD5WLrgx?usp=sharing)
 
 ---
